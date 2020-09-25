@@ -1,0 +1,41 @@
+Source,Target,Value
+Conda,Anaconda,1
+Conda,Miniconda,1
+Env,Unix,1
+Env,Conda,1
+Env,Docker,1
+Env,Snakmake,1
+Env,Virtual machine,1
+HUMAnN2,PEAR,1
+HUMAnN2,KneadData,1
+HUMAnN2,MetaPhlAn,1
+HUMAnN2,Bowtie,1
+HUMAnN2,Diamond,1
+IDE,VS Code,1
+IDE,IDLE,1
+IDE,PyCharm,1
+IDE,Jupyter notebook,1
+IDE,Jupyter Lab,1
+IDE,Spyder,1
+IDE,RStudio,1
+IDE,Vimsssd,1
+Linux,Ubuntu,1
+Linux,Manjaro,1
+Linux,Arc Linux,1
+Linux,CentOS,1
+Linux,DeepIn,1
+Linux,Kali Linux,1
+Linux,Rusbian,1
+Linux,Red Hat,1
+Linux,WSL1&2,1
+Metagenomics,QIIME2,1
+Metagenomics,HUMAnN2,1
+Metagenomics,Sunbeam,1
+Pipeline,RNA-Seq,1
+Pipeline,Metagenomics,1
+Pipeline,MetaBGC,1
+R,RStudio,1
+R,Bioconductor,1
+R,ggplot,1
+Unix,Linux,1
+Unix,HPC,1
