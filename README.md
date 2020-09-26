@@ -17,6 +17,6 @@ PS: these file can also import to python and R, witch you can refer to [from Dat
 Obsidian's Graph View:
 ![](img/demo_obsidian.png)
 
-Interactive version in Flourish:
+Interactive version in Flourish:   
 https://public.flourish.studio/visualisation/3581235/
 
